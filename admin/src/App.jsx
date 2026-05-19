@@ -23,9 +23,9 @@ const App = () => {
     <div className="bg-[#F8F9FD]">
       <ToastContainer />
       <Navbar />
-      <div className="text-right">
-        <p className="text-2xl font-semibold text-gray-600 mt-4">welcome admin</p>
-      </div>
+      <h1 className="text-5xl text-red-600 font-bold text-center mt-5">
+  TEST DEPLOY
+</h1>
       <div className="flex items-start">
         <Sidebar />
         <Routes>
